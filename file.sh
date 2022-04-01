@@ -3,8 +3,6 @@
 #let VMPORT=5000
 #let CPORT=5000
 # test application
-#echo "Installing Dependancies"
-#sleep 2
 
 npm install
 npm test 
