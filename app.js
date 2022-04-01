@@ -1,4 +1,4 @@
-// import express
+// import express the app that displays the  web page now updated to run  via the script, now adding variables and CD
 const express = require('express');
 
 //import nedb
